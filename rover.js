@@ -239,8 +239,6 @@ let daphRover = new Rover("Daphne","S",0,0);
 
 daphRover.commands("ffffffff")
 
-//daphRover.lastPositionx();
-
 daphRover.addToBoard(board)
 
 console.log(board)
